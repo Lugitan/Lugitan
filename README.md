@@ -5,7 +5,7 @@
 
 - 📚 I’m currently trying to get a deeper understanding of blockchain technologies and DevOps
 
-- 👨‍💻 At the moment I am working on a crypto trading project with React, D3 & Node as well as Python for data processing
+- 👨‍💻 I am working on a crypto trading project with React, D3 & Node as well as Python for data processing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
