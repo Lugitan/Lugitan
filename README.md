@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Gilles</h1>
 <h3 align="center">M.Sc. Informatics Student at Technical University of Munich</h3>
 
-- 🔭 My interests are blockchain, web development, distributed systems and sustainability.
+- 🔭 My interests are crypto, web development, distributed systems and sustainability.
 
-- 🌱 I’m currently learning blockchain technologies, D3 and DevOps
+- 📚 I’m currently trying to get a deeper understanding of blockchain technologies and DevOps
 
 - 👨‍💻 At the moment I am working on a crypto trading project with React, D3 & Node as well as Python for data processing
 
