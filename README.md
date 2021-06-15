@@ -9,13 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gonzalo-munilla/" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" alt="https://www.linkedin.com/in/gilles-tanson/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/gilles-tanson/" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" alt="linkedin" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a> <a href="https://nodejs.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Lugitan=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?Lugitan=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" alt="gilles-tanson" /></p>
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lugitan&show_icons=true&locale=en&layout=compact" alt="gilles-tanson" /></p>
