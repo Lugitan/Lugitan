@@ -3,9 +3,9 @@
 
 - 🔭 My interests are blockchain, web development, distributed systems and sustainability.
 
-- 🌱 I’m currently learning **blockchain technologies** and **DevOps**
+- 🌱 I’m currently learning blockchain technologies, D3 and DevOps
 
-- 👨‍💻 At the moment I am working on a crypto trading project with React & Node as well as Python for data processing
+- 👨‍💻 At the moment I am working on a crypto trading project with React, D3 & Node as well as Python for data processing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
