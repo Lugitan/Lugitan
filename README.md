@@ -5,7 +5,8 @@
 
 - 📚 I’m currently trying to get a deeper understanding of blockchain technologies and DevOps
 
-- 👨‍💻 I am working on a crypto trading project with React, D3 & Node as well as Python for data processing
+- 👨‍💻 Currently I am working in my own startup QRCart UG (haftungsbeschränkt) as a Frontend Developer
+<p align="left"> <a href="https://qrcart.de/" target="_blank"> <img src="https://ibpgeu.sharepoint.com/:i:/s/QRCart/ETXc_Ixcgy5MkftYZ3yCVTgBixB8IUHmDgeHithuCEzwUQ?e=j9G9Px" alt="reactjs" width="40" height="40"/> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
