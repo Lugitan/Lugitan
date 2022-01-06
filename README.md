@@ -6,7 +6,7 @@
 - 📚 I’m currently trying to get a deeper understanding of blockchain technologies and DevOps
 
 - 👨‍💻 Currently I am working in my own startup QRCart UG (haftungsbeschränkt) as a Frontend Developer
-<p align="left"> <a href="https://qrcart.de/" target="_blank"> <img src="blob:https://ibpgeu.sharepoint.com/6da446c2-3e07-4971-a06d-7406ae853743" alt="qrcart" width="40" height="40"/> </a>
+<p align="left"> <a href="https://qrcart.de/" target="_blank"> <img src="https://drive.google.com/file/d/1AiEZJJDQcpvT5kz33qLDkz2RMzt0RYOs/view?usp=sharing" alt="qrcart" width="40" height="40"/> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
