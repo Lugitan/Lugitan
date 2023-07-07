@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋 I'm Gilles</h1>
 <h3 align="center">M.Sc. Informatics Student at Technical University of Munich</h3>
 
-- 🔭 My interests are ever changing and I am eager to learn as much as I can in various fields. Currently my main interests are crypto, AI, web development, and sustainability.
+- 🔭 My interests are ever changing and I am eager to learn as much as I can in various fields. Currently my main interests are AI, web development, and sustainability.
 
-- 📚 I’m currently trying to get a deeper understanding of blockchain technologies, DevOps and machine learning
-
-- 👨‍💻 Currently I am working in my own startup <a href="https://qrcart.de/" target="_blank">QRCart UG (haftungsbeschränkt)</a>
+- 📚 I’m currently trying to get a deeper understanding of DevOps and machine learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
