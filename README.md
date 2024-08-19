@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋 I'm Gilles</h1>
-<h3 align="center">M.Sc. Informatics Student at Technical University of Munich</h3>
+<h3 align="center">IT Consultant at <a href="https://netlight.com" about="_blank">Netlight GmbH</a></h3>
+<h4 align="center">M.Sc. Informatics Student at Technical University of Munich</h3>
 
-- 🔭 My interests are ever changing and I am eager to learn as much as I can in various fields. Currently my main interests are AI, web development, and sustainability.
+- 🔭 My interests are ever changing and I am eager to learn as much as I can in various fields. Currently my main interests are web development, DevOps and sustainability.
 
-- 📚 I’m currently trying to get a deeper understanding of DevOps and machine learning
+- 📚 I’m currently trying to get a deeper understanding of DevOps 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
